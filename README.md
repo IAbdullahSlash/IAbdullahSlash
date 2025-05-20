@@ -5,7 +5,7 @@
 - 🔭 I’m currently working on: Python Projects, Web Apps, and Problem Solving
 - 🌱 I’m learning: React.js, Django, and System Design
 - 👯 I’m open to collaborating on exciting dev projects
-- 📫 Reach me at: your-email@example.com
+- 📫 Reach me at: abdullahaz7677@gmail.com
 - 📄 [My Resume](link-to-resume)
 
 ---
