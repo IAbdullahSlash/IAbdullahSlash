@@ -6,7 +6,7 @@
 - 🌱 I’m learning: React.js, Django, and System Design
 - 👯 I’m open to collaborating on exciting dev projects
 - 📫 Reach me at: abdullahaz7677@gmail.com
-- 📄 [My Resume](link-to-resume)
+- 📄 [My Resume](https://github.com/IAbdullahSlash/IAbdullahSlash/blob/main/Abdullah-resume.pdf)
 
 ---
 
