@@ -1,9 +1,9 @@
 # 👋 Hi, I'm Abdullah!
 
-### 🎓 Computer Science Student | 💻 Aspiring Software Engineer | 🌱 Currently learning Full Stack Development
+### 🎓 Computer Science Student | 💻 Aspiring Software Engineer | 🌱 Currently swimming in the ocean of AI/ML
 
-- 🔭 I’m currently working on: Python Projects, Web Apps, and Problem Solving
-- 🌱 I’m learning: React.js, Django, and System Design
+- 🔭 I’m currently working on: machine learning Projects, Software development, and Algorithmic problem Solving
+- 🌱 I’m learning: Python, TensorFlow, and Algorithems
 - 👯 I’m open to collaborating on exciting dev projects
 - 📫 Reach me at: abdullahaz7677@gmail.com
 - 📄 [My Resume](https://github.com/IAbdullahSlash/IAbdullahSlash/blob/main/Abdullah-resume.pdf)
