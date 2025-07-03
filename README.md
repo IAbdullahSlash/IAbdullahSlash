@@ -3,7 +3,7 @@
 ### 🎓 Computer Science Student | 💻 Aspiring Software Engineer | 🌱 Currently exploring the cave of AI/ML
 
 - 🔭 I’m currently working on: machine learning Projects, Software development, and Algorithmic problem Solving
-- 🌱 I’m learning: Python, TensorFlow, and Algorithems.
+- 🌱 I’m learning: Python, TensorFlow, and Algorithems
 - 👯 I’m open to collaborating on exciting dev projects
 - 📫 Reach me at: abdullahaz7677@gmail.com
 - 📄 [My Resume](https://github.com/IAbdullahSlash/IAbdullahSlash/blob/main/Abdullah-resume.pdf)
