@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Abdullah!
+# 👋 Hello there, Abdullah Here!
 
 ### 🎓 Computer Science Student | 💻 Aspiring Software Engineer | 🌱 Currently exploring the cave of AI/ML
 
